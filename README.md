@@ -1,8 +1,5 @@
 # Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock
 
-# AssistenteDelivery
-# Assistente de Delivery com AWS Step Functions e Bedrock
-
 Este repositório contém a definição de um assistente de delivery implementado usando **AWS Step Functions** e **Amazon Bedrock**. O fluxo orquestra a recepção, processamento e entrega de pedidos de forma inteligente e eficiente.
 
 ## Visão Geral do Fluxo
